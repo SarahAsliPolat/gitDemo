@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5d117d5-5624-4aa1-bbd1-717122ebdeec" name="Default Changelist" comment="">
+    <list default="true" id="b5d117d5-5624-4aa1-bbd1-717122ebdeec" name="Default Changelist" comment="yes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/demo/HappyB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/demo/HappyB20.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1596749533191</updated>
     </task>
+    <task id="LOCAL-00001" summary="yes">
+      <created>1596749898828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596749898828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +85,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1314" height="211" key="GridCell.Tab.0.bottom" timestamp="1596749637578">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1314" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.736.1366.728@0.0.1368.872" timestamp="1596749637578" />
+    <state width="1314" height="211" key="GridCell.Tab.0.center" timestamp="1596749637577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1314" height="211" key="GridCell.Tab.0.center/0.0.1368.872/2736.736.1366.728@0.0.1368.872" timestamp="1596749637577" />
+    <state width="1314" height="211" key="GridCell.Tab.0.left" timestamp="1596749637577">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1314" height="211" key="GridCell.Tab.0.left/0.0.1368.872/2736.736.1366.728@0.0.1368.872" timestamp="1596749637577" />
+    <state width="1314" height="211" key="GridCell.Tab.0.right" timestamp="1596749637578">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1314" height="211" key="GridCell.Tab.0.right/0.0.1368.872/2736.736.1366.728@0.0.1368.872" timestamp="1596749637578" />
+    <state x="0" y="0" key="new project wizard" timestamp="1596750285109">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1368.872/2736.736.1366.728@0.0.1368.872" timestamp="1596750285109" />
   </component>
 </project>
