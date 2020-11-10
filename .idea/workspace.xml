@@ -18,6 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5d117d5-5624-4aa1-bbd1-717122ebdeec" name="Default Changelist" comment="yes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookARoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookARoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
